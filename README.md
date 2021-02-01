@@ -23,3 +23,7 @@
 - git remote -v
 ## cloning existing repository
 - git clone"repository link" folder name
+## undoing change
+- git restore file name(uncommited change)
+- git revert id (commited change)
+- reset id (reseting commities)
