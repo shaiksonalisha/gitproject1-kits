@@ -17,7 +17,3 @@
 ## push and pull
 - git push remotename branch name
 - git pull remotename branch name
-## remote
-- git add remote
-## remote status
-- git remote -v
