@@ -20,4 +20,4 @@
 ## remote
 - git remote add name "repo link"
 ## remote status
-git remote -v
+- git remote -v
